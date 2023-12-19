@@ -38,6 +38,9 @@ This repository contains a curated list of awesome watermarking papers.
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein
   * 2023 ICML [Paper URL](https://arxiv.org/abs/2301.10226)
 
+- **Protecting Language Generation Models via Invisible Watermarking**
+  * Xuandong Zhao, Yu-Xiang Wang, Lei Li
+  * 2023 ICML [Paper URL](https://arxiv.org/abs/2302.03162)
 
 ## Image Watermarking <a name="image_watermarking"></a>
 
