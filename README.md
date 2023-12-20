@@ -42,6 +42,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Xuandong Zhao, Yu-Xiang Wang, Lei Li
   * 2023 ICML [Paper URL](https://arxiv.org/abs/2302.03162)
 
+- **REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models**
+  * Ruisi Zhang, Shehzeen Samarah Hussain, Paarth Neekhara, Farinaz Koushanfar
+  * 2023 [Paper URL](https://arxiv.org/abs/2310.12362)
+
 ## Image Watermarking <a name="image_watermarking"></a>
 
 - **HiDDeN: Hiding Data With Deep Networks**
