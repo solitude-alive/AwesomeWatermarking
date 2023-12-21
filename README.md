@@ -51,3 +51,7 @@ This repository contains a curated list of awesome watermarking papers.
 - **HiDDeN: Hiding Data With Deep Networks**
   * Jiren Zhu, Russell Kaplan, Justin Johnson, Li Fei-Fei
   * 2018 ECCV [Paper URL](https://arxiv.org/abs/1807.09937)
+  
+- **StegaStamp: Invisible Hyperlinks in Physical Photographs**
+  * Matthew Tancik, Ben Mildenhall, Ren Ng
+  * 2020 CVPR [Paper URL](https://arxiv.org/abs/1904.05343)
