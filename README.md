@@ -55,3 +55,7 @@ This repository contains a curated list of awesome watermarking papers.
 - **StegaStamp: Invisible Hyperlinks in Physical Photographs**
   * Matthew Tancik, Ben Mildenhall, Ren Ng
   * 2020 CVPR [Paper URL](https://arxiv.org/abs/1904.05343)
+
+- **A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**
+  * Ge Luo, Junqiang Huang, Manman Zhang, Zhenxing Qian, Sheng Li, Xinpeng Zhang
+  * 2023 [Paper URL](https://arxiv.org/abs/2311.13619)
