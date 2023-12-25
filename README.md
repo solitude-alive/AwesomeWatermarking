@@ -59,3 +59,7 @@ This repository contains a curated list of awesome watermarking papers.
 - **A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**
   * Ge Luo, Junqiang Huang, Manman Zhang, Zhenxing Qian, Sheng Li, Xinpeng Zhang
   * 2023 [Paper URL](https://arxiv.org/abs/2311.13619)
+  
+- **EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection**
+  * Xuanyu Zhang, Runyi Li, Jiwen Yu, Youmin Xu, Weiqi Li, Jian Zhang
+  * 2023 [Paper URL](https://arxiv.org/abs/2312.08883)
