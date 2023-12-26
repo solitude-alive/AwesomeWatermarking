@@ -56,6 +56,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Matthew Tancik, Ben Mildenhall, Ren Ng
   * 2020 CVPR [Paper URL](https://arxiv.org/abs/1904.05343)
 
+- **HiNet: Deep Image Hiding by Invertible Network**
+  * Junpeng Jing1, Xin Deng1, Mai Xu2, Jianyi Wang2, Zhenyu Guan1
+  * 2021 ICCV [Paper URL](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_HiNet_Deep_Image_Hiding_by_Invertible_Network_ICCV_2021_paper.pdf)
+
 - **A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**
   * Ge Luo, Junqiang Huang, Manman Zhang, Zhenxing Qian, Sheng Li, Xinpeng Zhang
   * 2023 [Paper URL](https://arxiv.org/abs/2311.13619)
