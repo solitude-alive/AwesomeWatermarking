@@ -46,6 +46,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Ruisi Zhang, Shehzeen Samarah Hussain, Paarth Neekhara, Farinaz Koushanfar
   * 2023 [Paper URL](https://arxiv.org/abs/2310.12362)
 
+- **Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy**
+  * Yu Fu, Deyi Xiong, Yue Dong
+  * 2023 [Paper URL](https://arxiv.org/abs/2307.13808)
+
 ## Image Watermarking <a name="image_watermarking"></a>
 
 - **HiDDeN: Hiding Data With Deep Networks**
