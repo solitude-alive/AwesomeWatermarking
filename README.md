@@ -49,6 +49,11 @@ This repository contains a curated list of awesome watermarking papers.
 - **Watermarking Conditional Text Generation for AI Detection: Unveiling Challenges and a Semantic-Aware Watermark Remedy**
   * Yu Fu, Deyi Xiong, Yue Dong
   * 2023 [Paper URL](https://arxiv.org/abs/2307.13808)
+  
+- **Functional Invariants to Watermark Large Transformers**
+  * Fernandez Pierre, Couairon Guillaume, Furon Teddy, Douze Matthijs
+  * 2023 [Paper URL](https://arxiv.org/abs/2310.11446)
+
 
 ## Image Watermarking <a name="image_watermarking"></a>
 
@@ -71,3 +76,7 @@ This repository contains a curated list of awesome watermarking papers.
 - **EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection**
   * Xuanyu Zhang, Runyi Li, Jiwen Yu, Youmin Xu, Weiqi Li, Jian Zhang
   * 2023 [Paper URL](https://arxiv.org/abs/2312.08883)
+  
+- **PTW: Pivotal Tuning Watermarking for Pre-Trained Image Generators**
+  * Nils Lukas, Florian Kerschbaum
+  * 2023 USENIX [Paper URL](https://arxiv.org/abs/2304.07361)
