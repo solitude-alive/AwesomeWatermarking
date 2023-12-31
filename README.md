@@ -54,6 +54,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Fernandez Pierre, Couairon Guillaume, Furon Teddy, Douze Matthijs
   * 2023 [Paper URL](https://arxiv.org/abs/2310.11446)
 
+- **Towards Codable Watermarking for Injecting Multi-bit Information to LLM**
+  * Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun
+  * 2023 [Paper URL](https://arxiv.org/abs/2307.15992)
+
 
 ## Image Watermarking <a name="image_watermarking"></a>
 
