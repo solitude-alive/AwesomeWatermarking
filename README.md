@@ -58,6 +58,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun
   * 2023 [Paper URL](https://arxiv.org/abs/2307.15992)
 
+- **On the Reliability of Watermarks for Large Language Models**
+  * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein
+  * 2023 [Paper URL](https://arxiv.org/abs/2306.04634)
+
 
 ## Image Watermarking <a name="image_watermarking"></a>
 
