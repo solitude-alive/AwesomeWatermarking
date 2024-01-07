@@ -5,8 +5,8 @@ This repository contains a curated list of awesome watermarking papers.
 ## Table of Contents
 
 - [Survey](#survey)
-- [Text Watermarking](#text_watermarking)
-- [Image Watermarking](#image_watermarking)
+- [Text Watermarking](#text-watermarking)
+- [Image Watermarking](#image-watermarking)
 
 
 ## Survey
@@ -28,7 +28,7 @@ This repository contains a curated list of awesome watermarking papers.
   * 2023 [Paper URL](https://arxiv.org/abs/2312.07913)
 
 
-## Text Watermarking <a name="text_watermarking"></a>
+## Text Watermarking
 
 - **Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding**
   * Sahar Abdelnabi, Mario Fritz
@@ -63,7 +63,7 @@ This repository contains a curated list of awesome watermarking papers.
   * 2023 [Paper URL](https://arxiv.org/abs/2306.04634)
 
 
-## Image Watermarking <a name="image_watermarking"></a>
+## Image Watermarking
 
 - **HiDDeN: Hiding Data With Deep Networks**
   * Jiren Zhu, Russell Kaplan, Justin Johnson, Li Fei-Fei
