@@ -62,6 +62,10 @@ This repository contains a curated list of awesome watermarking papers.
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein
   * 2023 [Paper URL](https://arxiv.org/abs/2306.04634)
 
+- **On the Learnability of Watermarks for Language Models**
+  * Chenchen Gu, Xiang Lisa Li, Percy Liang, Tatsunori Hashimoto
+  * 2023 [Paper URL](https://arxiv.org/abs/2312.04469)
+  
 
 ## Image Watermarking
 
@@ -77,6 +81,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Junpeng Jing1, Xin Deng1, Mai Xu2, Jianyi Wang2, Zhenyu Guan1
   * 2021 ICCV [Paper URL](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_HiNet_Deep_Image_Hiding_by_Invertible_Network_ICCV_2021_paper.pdf)
 
+- **Certified Neural Network Watermarks with Randomized Smoothing**
+  * Arpit Bansal, Ping-yeh Chiang, Michael Curry, Rajiv Jain, Curtis Wigington, Varun Manjunatha, John P Dickerson, Tom Goldstein
+  * 2022 ICML [Paper URL](https://arxiv.org/abs/2207.07972)
+
 - **A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**
   * Ge Luo, Junqiang Huang, Manman Zhang, Zhenxing Qian, Sheng Li, Xinpeng Zhang
   * 2023 [Paper URL](https://arxiv.org/abs/2311.13619)
@@ -88,3 +96,7 @@ This repository contains a curated list of awesome watermarking papers.
 - **PTW: Pivotal Tuning Watermarking for Pre-Trained Image Generators**
   * Nils Lukas, Florian Kerschbaum
   * 2023 USENIX [Paper URL](https://arxiv.org/abs/2304.07361)
+
+- **Securing Deep Generative Models with Universal Adversarial Signature**
+  * Yu Zeng, Mo Zhou, Yuan Xue, Vishal M. Patel
+  * 2023 [Paper URL](https://arxiv.org/abs/2305.16310)
