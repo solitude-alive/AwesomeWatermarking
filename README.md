@@ -100,3 +100,11 @@ This repository contains a curated list of awesome watermarking papers.
 - **Securing Deep Generative Models with Universal Adversarial Signature**
   * Yu Zeng, Mo Zhou, Yuan Xue, Vishal M. Patel
   * 2023 [Paper URL](https://arxiv.org/abs/2305.16310)
+
+- **Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust**
+  * Yuxin Wen, John Kirchenbauer, Jonas Geiping, Tom Goldstein
+  * 2023 NeurIPS [Paper URL](https://arxiv.org/abs/2305.20030)
+
+- **TrustMark: Universal Watermarking for Arbitrary Resolution Images**
+  * Tu Bui, Shruti Agarwal, John Collomosse
+  * 2023 arXiv [Paper URL](https://arxiv.org/abs/2311.18297)
