@@ -108,3 +108,12 @@ This repository contains a curated list of awesome watermarking papers.
 - **TrustMark: Universal Watermarking for Arbitrary Resolution Images**
   * Tu Bui, Shruti Agarwal, John Collomosse
   * 2023 arXiv [Paper URL](https://arxiv.org/abs/2311.18297)
+
+- **RoSteALS: Robust Steganography using Autoencoder Latent Space**
+  * Tu Bui, Shruti Agarwal, Ning Yu, John Collomosse
+  * 2023 CVPR Workshop on Media Forensics [Paper URL](https://arxiv.org/abs/2304.03400)
+
+- **Robust Image Watermarking using Stable Diffusion**
+  * Lijun Zhang, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan
+  * 2024 arXiv [Paper URL](https://arxiv.org/abs/2401.04247)
+
