@@ -65,7 +65,11 @@ This repository contains a curated list of awesome watermarking papers.
 - **On the Learnability of Watermarks for Language Models**
   * Chenchen Gu, Xiang Lisa Li, Percy Liang, Tatsunori Hashimoto
   * 2023 [Paper URL](https://arxiv.org/abs/2312.04469)
-  
+
+- **I Know You Did Not Write That! A Sampling Based Watermarking Method for Identifying Machine Generated Text**
+  * Kaan Efe Keleş, Ömer Kaan Gürbüz, Mucahid Kutlu
+  * 2023 arXiv [Paper URL](https://arxiv.org/abs/2311.18054)
+
 
 ## Image Watermarking
 
