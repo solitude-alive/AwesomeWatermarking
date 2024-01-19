@@ -34,6 +34,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Sahar Abdelnabi, Mario Fritz
   * 2020 [Paper URL](https://arxiv.org/abs/2009.03015)
 
+- **A novel watermarking framework for intellectual property protection of NLG APIs**
+  * Mingjie Li, Hanzhou Wu, Xinpeng Zhang
+  * 2021 [Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0925231223008238)
+
 - **A Watermark for Large Language Models**
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein
   * 2023 ICML [Paper URL](https://arxiv.org/abs/2301.10226)
