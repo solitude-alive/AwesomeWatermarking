@@ -25,7 +25,7 @@ This repository contains a curated list of awesome watermarking papers.
 
 - **A Survey of Text Watermarking in the Era of Large Language Models**
   * Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
-  * 2023 [Paper URL](https://arxiv.org/abs/2312.07913)
+  * 2024 [Paper URL](https://arxiv.org/abs/2312.07913)
 
 
 ## Text Watermarking
