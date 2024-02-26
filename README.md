@@ -74,6 +74,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Kaan Efe Keleş, Ömer Kaan Gürbüz, Mucahid Kutlu
   * 2023 arXiv [Paper URL](https://arxiv.org/abs/2311.18054)
 
+- **Optimizing watermarks for large language models**
+  * Bram Wouters
+  * 2023 arXiv [Paper URL](https://arxiv.org/abs/2312.17295)
+
 - **A Semantic Invariant Robust Watermark for Large Language Models**
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
   * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.06356)
