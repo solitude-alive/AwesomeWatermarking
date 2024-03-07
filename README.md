@@ -82,6 +82,14 @@ This repository contains a curated list of awesome watermarking papers.
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
   * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.06356)
 
+- **Unbiased Watermark for Large Language Models**
+  * Zhengmian Hu, Lichang Chen, Xidong Wu, Yihan Wu, Hongyang Zhang, Heng Huang
+  * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.10669)
+
+- **Watermark Stealing in Large Language Models**
+  * Nikola Jovanović, Robin Staab, Martin Vechev
+  * 2024 [Paper URL](https://arxiv.org/abs/2402.19361)
+
 
 ## Image Watermarking
 
@@ -133,3 +141,6 @@ This repository contains a curated list of awesome watermarking papers.
   * Lijun Zhang, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan
   * 2024 arXiv [Paper URL](https://arxiv.org/abs/2401.04247)
 
+- **Deep neural networks watermark via universal deep hiding and metric learning**
+  * Zhicheng Ye, Xinpeng Zhang, Guorui Feng
+  * 2024 [Paper URL](https://link.springer.com/article/10.1007/s00521-024-09469-5)
