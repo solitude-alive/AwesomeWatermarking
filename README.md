@@ -90,6 +90,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Nikola Jovanović, Robin Staab, Martin Vechev
   * 2024 [Paper URL](https://arxiv.org/abs/2402.19361)
 
+- **An Unforgeable Publicly Verifiable Watermark for Large Language Models**
+  * Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu
+  * 2024 ICLR [Paper URL](https://arxiv.org/abs/2307.16230)
+
 
 ## Image Watermarking
 
