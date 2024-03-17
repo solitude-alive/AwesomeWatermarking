@@ -27,6 +27,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
   * 2024 [Paper URL](https://arxiv.org/abs/2312.07913)
 
+- **Double-I Watermark: Protecting Model Copyright for LLM Fine-tuning**
+  * Shen Li, Liuyi Yao, Jinyang Gao, Lan Zhang, Yaliang Li
+  * 2024 [Paper URL](https://arxiv.org/abs/2402.14883)
+
 
 ## Text Watermarking
 
