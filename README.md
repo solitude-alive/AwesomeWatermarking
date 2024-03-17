@@ -42,6 +42,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Mingjie Li, Hanzhou Wu, Xinpeng Zhang
   * 2021 [Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0925231223008238)
 
+- **Watermarking Pre-trained Language Models with Backdooring**
+  * Chenxi Gu, Chengsong Huang, Xiaoqing Zheng, Kai-Wei Chang, Cho-Jui Hsieh
+  * 2022 [Paper URL](https://arxiv.org/abs/2210.07543)
+
 - **A Watermark for Large Language Models**
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein
   * 2023 ICML [Paper URL](https://arxiv.org/abs/2301.10226)
