@@ -102,6 +102,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu
   * 2024 ICLR [Paper URL](https://arxiv.org/abs/2307.16230)
 
+- **Adaptive Text Watermark for Large Language Models**
+  * Yepeng Liu, Yuheng Bu
+  * 2024 [Paper URL](https://arxiv.org/abs/2401.13927)
+
 
 ## Image Watermarking
 
