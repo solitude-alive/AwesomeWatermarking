@@ -7,6 +7,7 @@ This repository contains a curated list of awesome watermarking papers.
 - [Survey](#survey)
 - [Text Watermarking](#text-watermarking)
 - [Image Watermarking](#image-watermarking)
+- [Model Fingerprint](#model-fingerprint)
 
 
 ## Survey
@@ -106,10 +107,6 @@ This repository contains a curated list of awesome watermarking papers.
   * Yepeng Liu, Yuheng Bu
   * 2024 [Paper URL](https://arxiv.org/abs/2401.13927)
 
-- **Inversion-guided Defense: Detecting Model Stealing Attacks by Output Inverting**
-  * Shuai Zhou, Tianqing Zhu, Dayong Ye, Wanlei Zhou, Wei Zhao
-  * 2024 TIFS [Paper URL](https://ieeexplore.ieee.org/document/10466709/authors#authors)
-
 
 ## Image Watermarking
 
@@ -164,3 +161,11 @@ This repository contains a curated list of awesome watermarking papers.
 - **Deep neural networks watermark via universal deep hiding and metric learning**
   * Zhicheng Ye, Xinpeng Zhang, Guorui Feng
   * 2024 [Paper URL](https://link.springer.com/article/10.1007/s00521-024-09469-5)
+
+## Model Fingerprint
+
+- **Inversion-guided Defense: Detecting Model Stealing Attacks by Output Inverting**
+  * Shuai Zhou, Tianqing Zhu, Dayong Ye, Wanlei Zhou, Wei Zhao
+  * 2024 TIFS [Paper URL](https://ieeexplore.ieee.org/document/10466709/authors#authors)
+
+
