@@ -32,6 +32,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Shen Li, Liuyi Yao, Jinyang Gao, Lan Zhang, Yaliang Li
   * 2024 [Paper URL](https://arxiv.org/abs/2402.14883)
 
+- **Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models**
+  * Zhiwei He, Binglin Zhou, Hongkun Hao, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
+  * 2024 [Paper URL](https://arxiv.org/abs/2402.14007)
+
 
 ## Text Watermarking
 
