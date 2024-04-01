@@ -172,4 +172,6 @@ This repository contains a curated list of awesome watermarking papers.
   * Shuai Zhou, Tianqing Zhu, Dayong Ye, Wanlei Zhou, Wei Zhao
   * 2024 TIFS [Paper URL](https://ieeexplore.ieee.org/document/10466709/authors#authors)
 
-
+- **Instructional Fingerprinting of Large Language Models**
+  * Jiashu Xu, Fei Wang, Mingyu Derek Ma, Pang Wei Koh, Chaowei Xiao, Muhao Chen
+  * 2024 [Paper URL](https://arxiv.org/abs/2401.12255)
