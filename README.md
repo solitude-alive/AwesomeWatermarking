@@ -175,3 +175,7 @@ This repository contains a curated list of awesome watermarking papers.
 - **Instructional Fingerprinting of Large Language Models**
   * Jiashu Xu, Fei Wang, Mingyu Derek Ma, Pang Wei Koh, Chaowei Xiao, Muhao Chen
   * 2024 [Paper URL](https://arxiv.org/abs/2401.12255)
+
+- **Human-Readable Fingerprint for Large Language Models**
+  * Boyi Zeng, Chenghu Zhou, Xinbing Wang, Zhouhan Lin
+  * 2024 [Paper URL](https://arxiv.org/abs/2312.04828)
