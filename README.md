@@ -168,6 +168,10 @@ This repository contains a curated list of awesome watermarking papers.
 
 ## Model Fingerprint
 
+- **Deep Neural Network Fingerprinting by Conferrable Adversarial Examples**
+  * Nils Lukas, Yuxuan Zhang, Florian Kerschbaum
+  * 2021 ICLR [Paper URL](https://arxiv.org/abs/1912.00888)
+
 - **Inversion-guided Defense: Detecting Model Stealing Attacks by Output Inverting**
   * Shuai Zhou, Tianqing Zhu, Dayong Ye, Wanlei Zhou, Wei Zhao
   * 2024 TIFS [Paper URL](https://ieeexplore.ieee.org/document/10466709/authors#authors)
