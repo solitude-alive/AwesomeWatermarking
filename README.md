@@ -172,6 +172,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Nils Lukas, Yuxuan Zhang, Florian Kerschbaum
   * 2021 ICLR [Paper URL](https://arxiv.org/abs/1912.00888)
 
+- **ManiFPT: Defining and Analyzing Fingerprints of Generative Models**
+  * Hae Jin Song, Mahyar Khayatkhoei, Wael AbdAlmageed
+  * 2024 CVPR [Paper URL](https://arxiv.org/abs/2402.10401)
+
 - **Inversion-guided Defense: Detecting Model Stealing Attacks by Output Inverting**
   * Shuai Zhou, Tianqing Zhu, Dayong Ye, Wanlei Zhou, Wei Zhao
   * 2024 TIFS [Paper URL](https://ieeexplore.ieee.org/document/10466709/authors#authors)
