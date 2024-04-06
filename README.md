@@ -172,6 +172,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Nils Lukas, Yuxuan Zhang, Florian Kerschbaum
   * 2021 ICLR [Paper URL](https://arxiv.org/abs/1912.00888)
 
+- **Deepfake Fingerprint Detection Model Intellectual Property Protection via Ridge Texture Enhancement**
+  * Chengsheng Yuan, Qiang Guo, Zhili Zhou, Zhangjie Fu, Zhihua Xia
+  * 2023 [Paper URL](https://ieeexplore.ieee.org/document/10175609/authors#authors)
+
 - **ManiFPT: Defining and Analyzing Fingerprints of Generative Models**
   * Hae Jin Song, Mahyar Khayatkhoei, Wael AbdAlmageed
   * 2024 CVPR [Paper URL](https://arxiv.org/abs/2402.10401)
