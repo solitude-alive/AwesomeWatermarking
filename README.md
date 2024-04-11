@@ -158,6 +158,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Tu Bui, Shruti Agarwal, Ning Yu, John Collomosse
   * 2023 CVPR Workshop on Media Forensics [Paper URL](https://arxiv.org/abs/2304.03400)
 
+- **A Recipe for Watermarking Diffusion Models**
+  * Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Ngai-Man Cheung, Min Lin
+  * 2023 [Paper URL](https://arxiv.org/abs/2303.10137)
+
 - **Robust Image Watermarking using Stable Diffusion**
   * Lijun Zhang, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan
   * 2024 arXiv [Paper URL](https://arxiv.org/abs/2401.04247)
