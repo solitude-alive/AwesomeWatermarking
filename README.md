@@ -174,6 +174,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Zhicheng Ye, Xinpeng Zhang, Guorui Feng
   * 2024 [Paper URL](https://link.springer.com/article/10.1007/s00521-024-09469-5)
 
+- **RobWE: Robust Watermark Embedding for Personalized Federated Learning Model Ownership Protectio**
+  * Yang Xu, Yunlin Tan, Cheng Zhang, Kai Chi, Peng Sun, Wenyuan Yang, Ju Ren, Hongbo Jiang, Yaoxue Zhang
+  * 2024 [Paper URL](https://arxiv.org/abs/2402.19054)
+
 
 ## Model Fingerprint
 
