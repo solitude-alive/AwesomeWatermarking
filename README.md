@@ -7,6 +7,7 @@ This repository contains a curated list of awesome watermarking papers.
 - [Survey](#survey)
 - [Text Watermarking](#text-watermarking)
 - [Image Watermarking](#image-watermarking)
+- 
 - [Model Fingerprint](#model-fingerprint)
 
 
@@ -178,6 +179,12 @@ This repository contains a curated list of awesome watermarking papers.
   * Yang Xu, Yunlin Tan, Cheng Zhang, Kai Chi, Peng Sun, Wenyuan Yang, Ju Ren, Hongbo Jiang, Yaoxue Zhang
   * 2024 [Paper URL](https://arxiv.org/abs/2402.19054)
 
+
+## Model Watermarking
+
+- **Embedding Watermarks into Deep Neural Networks**
+  * Yusuke Uchida, Yuki Nagai, Shigeyuki Sakazawa, Shin'ichi Satoh
+  * 2017 ICMR [Paper URL](https://arxiv.org/abs/1701.04082)
 
 ## Model Fingerprint
 
