@@ -186,6 +186,11 @@ This repository contains a curated list of awesome watermarking papers.
   * Yusuke Uchida, Yuki Nagai, Shigeyuki Sakazawa, Shin'ichi Satoh
   * 2017 ICMR [Paper URL](https://arxiv.org/abs/1701.04082)
 
+- **DeepSigns: An End-to-End Watermarking Framework for Ownership Protection of Deep Neural Networks**
+  * PictureBita Darvish Rouhani, PictureHuili Chen, PictureFarinaz Koushanfar
+  * 2019 ASPLOS [Paper URL](https://dl.acm.org/doi/10.1145/3297858.3304051)
+
+
 ## Model Fingerprint
 
 - **Deep Neural Network Fingerprinting by Conferrable Adversarial Examples**
