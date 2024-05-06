@@ -116,6 +116,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Yang Xu, Yunlin Tan, Cheng Zhang, Kai Chi, Peng Sun, Wenyuan Yang, Ju Ren, Hongbo Jiang, Yaoxue Zhang
   * 2024 [Paper URL](https://arxiv.org/abs/2402.19054)
 
+- **Duwak: Dual Watermarks in Large Language Models**
+  * Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
+  * 2024 [Paper URL](https://arxiv.org/abs/2403.13000)
+
 
 ## Image Watermarking
 
