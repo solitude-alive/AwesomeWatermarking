@@ -183,6 +183,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Yang Xu, Yunlin Tan, Cheng Zhang, Kai Chi, Peng Sun, Wenyuan Yang, Ju Ren, Hongbo Jiang, Yaoxue Zhang
   * 2024 [Paper URL](https://arxiv.org/abs/2402.19054)
 
+- **Deep Learning-based Text-in-Image Watermarking**
+  * Bishwa Karki, Chun-Hua Tsai, Pei-Chi Huang, Xin Zhong
+  * 2024 [Paper URL](https://arxiv.org/abs/2404.13134)
+
 
 ## Model Watermarking
 
