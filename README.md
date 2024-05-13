@@ -202,6 +202,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Qinfeng Li, Zhiqiang Shen, Zhenghan Qin, Yangfan Xie, Xuhong Zhang, Tianyu Du, Jianwei Yin
   * 2024 [Paper URL](https://arxiv.org/abs/2404.11121)
 
+- **ProFLingo: A Fingerprinting-based Copyright Protection Scheme for Large Language Models**
+  * Heng Jin, Chaoyu Zhang, Shanghao Shi, Wenjing Lou, Y. Thomas Hou
+  * 2024 [Paper URL](https://arxiv.org/abs/2405.02466)
+
 
 ## Model Fingerprint
 
