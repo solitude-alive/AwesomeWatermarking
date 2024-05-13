@@ -7,7 +7,7 @@ This repository contains a curated list of awesome watermarking papers.
 - [Survey](#survey)
 - [Text Watermarking](#text-watermarking)
 - [Image Watermarking](#image-watermarking)
-- 
+- [Model Watermarking](#model-watermarking)
 - [Model Fingerprint](#model-fingerprint)
 
 
