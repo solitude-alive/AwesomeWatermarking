@@ -198,6 +198,10 @@ This repository contains a curated list of awesome watermarking papers.
   * PictureBita Darvish Rouhani, PictureHuili Chen, PictureFarinaz Koushanfar
   * 2019 ASPLOS [Paper URL](https://dl.acm.org/doi/10.1145/3297858.3304051)
 
+- **Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data**
+  * Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz
+  * 2021 ICCV [Paper URL](https://arxiv.org/abs/2007.08457)
+
 - **Safeguarding Transformer Models Against Model Stealing in Edge Deployment**
   * Qinfeng Li, Zhiqiang Shen, Zhenghan Qin, Yangfan Xie, Xuhong Zhang, Tianyu Du, Jianwei Yin
   * 2024 [Paper URL](https://arxiv.org/abs/2404.11121)
