@@ -236,3 +236,7 @@ This repository contains a curated list of awesome watermarking papers.
 - **Human-Readable Fingerprint for Large Language Models**
   * Boyi Zeng, Chenghu Zhou, Xinbing Wang, Zhouhan Lin
   * 2024 [Paper URL](https://arxiv.org/abs/2312.04828)
+
+- **Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA**
+  * Weitao Feng, Wenbo Zhou, Jiyan He, Jie Zhang, Tianyi Wei, Guanlin Li, Tianwei Zhang, Weiming Zhang, Nenghai Yu
+  * 2024 ICML [Paper URL](https://arxiv.org/abs/2405.11135)
