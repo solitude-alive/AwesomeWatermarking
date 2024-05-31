@@ -198,6 +198,10 @@ This repository contains a curated list of awesome watermarking papers.
   * PictureBita Darvish Rouhani, PictureHuili Chen, PictureFarinaz Koushanfar
   * 2019 ASPLOS [Paper URL](https://dl.acm.org/doi/10.1145/3297858.3304051)
 
+- **Passport-aware Normalization for Deep Model Protection**
+  * Jie Zhang, Dongdong Chen, Jing Liao, Weiming Zhang, Gang Hua, Nenghai Yu
+  * 2020 NeurIPS [Paper URL](https://arxiv.org/abs/2010.15824)
+
 - **Artificial Fingerprinting for Generative Models: Rooting Deepfake Attribution in Training Data**
   * Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz
   * 2021 ICCV [Paper URL](https://arxiv.org/abs/2007.08457)
