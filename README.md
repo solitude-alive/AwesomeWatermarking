@@ -8,6 +8,7 @@ This repository contains a curated list of awesome watermarking papers.
 - [Text Watermarking](#text-watermarking)
 - [Image Watermarking](#image-watermarking)
 - [Model Watermarking](#model-watermarking)
+- [Prompt Watermarking](#prompt-watermarking)
 - [Model Fingerprint](#model-fingerprint)
 
 
@@ -213,6 +214,13 @@ This repository contains a curated list of awesome watermarking papers.
 - **ProFLingo: A Fingerprinting-based Copyright Protection Scheme for Large Language Models**
   * Heng Jin, Chaoyu Zhang, Shanghao Shi, Wenjing Lou, Y. Thomas Hou
   * 2024 [Paper URL](https://arxiv.org/abs/2405.02466)
+
+
+## Prompt Watermarking
+
+- **Are You Copying My Prompt? Protecting the Copyright of Vision Prompt for VPaaS via Watermark**
+  * Huali Ren, Anli Yan, Chong-zhi Gao, Hongyang Yan, Zhenxin Zhang, Jin Li
+  * 2024 [Paper URL](https://arxiv.org/abs/2405.15161)
 
 
 ## Model Fingerprint
