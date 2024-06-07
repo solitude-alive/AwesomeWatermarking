@@ -252,3 +252,7 @@ This repository contains a curated list of awesome watermarking papers.
 - **Toward White-box Protection for Customized Stable Diffusion Models via Watermark LoRA**
   * Weitao Feng, Wenbo Zhou, Jiyan He, Jie Zhang, Tianyi Wei, Guanlin Li, Tianwei Zhang, Weiming Zhang, Nenghai Yu
   * 2024 ICML [Paper URL](https://arxiv.org/abs/2405.11135)
+
+- **Hiding Text in Large Language Models: Introducing Unconditional Token Forcing Confusion**
+  * Jakub Hoscilowicz, Pawel Popiolek, Jan Rudkowski, Jedrzej Bieniasz, Artur Janicki
+  * 2024 [Paper URL](https://arxiv.org/abs/2406.02481)
