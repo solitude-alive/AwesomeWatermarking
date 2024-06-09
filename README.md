@@ -140,6 +140,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Arpit Bansal, Ping-yeh Chiang, Michael Curry, Rajiv Jain, Curtis Wigington, Varun Manjunatha, John P Dickerson, Tom Goldstein
   * 2022 ICML [Paper URL](https://arxiv.org/abs/2207.07972)
 
+- **Robust Image Forgery Detection over Online Social Network Shared Images**
+  * Haiwei Wu, Jiantao Zhou, Jinyu Tian, and Jun Liu
+  * 2022 CVPR [Paper URL](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Robust_Image_Forgery_Detection_Over_Online_Social_Network_Shared_Images_CVPR_2022_paper.pdf)
+
 - **A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**
   * Ge Luo, Junqiang Huang, Manman Zhang, Zhenxing Qian, Sheng Li, Xinpeng Zhang
   * 2023 [Paper URL](https://arxiv.org/abs/2311.13619)
