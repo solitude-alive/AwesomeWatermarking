@@ -132,6 +132,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Matthew Tancik, Ben Mildenhall, Ren Ng
   * 2020 CVPR [Paper URL](https://arxiv.org/abs/1904.05343)
 
+- **Robust High-Capacity Watermarking Over Online Social Network Shared Images**
+  * Weiwei Sun; Jiantao Zhou; Yuanman Li; Ming Cheung; James She
+  * 2020 TCSVT [Paper URL](https://ieeexplore.ieee.org/document/9103635)
+
 - **HiNet: Deep Image Hiding by Invertible Network**
   * Junpeng Jing1, Xin Deng1, Mai Xu2, Jianyi Wang2, Zhenyu Guan1
   * 2021 ICCV [Paper URL](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_HiNet_Deep_Image_Hiding_by_Invertible_Network_ICCV_2021_paper.pdf)
@@ -139,10 +143,6 @@ This repository contains a curated list of awesome watermarking papers.
 - **Certified Neural Network Watermarks with Randomized Smoothing**
   * Arpit Bansal, Ping-yeh Chiang, Michael Curry, Rajiv Jain, Curtis Wigington, Varun Manjunatha, John P Dickerson, Tom Goldstein
   * 2022 ICML [Paper URL](https://arxiv.org/abs/2207.07972)
-
-- **Robust Image Forgery Detection over Online Social Network Shared Images**
-  * Haiwei Wu, Jiantao Zhou, Jinyu Tian, and Jun Liu
-  * 2022 CVPR [Paper URL](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Robust_Image_Forgery_Detection_Over_Online_Social_Network_Shared_Images_CVPR_2022_paper.pdf)
 
 - **A Watermarking Framework for Detecting Art Theft Mimicry in Text-to-Image Models**
   * Ge Luo, Junqiang Huang, Manman Zhang, Zhenxing Qian, Sheng Li, Xinpeng Zhang
