@@ -199,6 +199,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Yusuke Uchida, Yuki Nagai, Shigeyuki Sakazawa, Shin'ichi Satoh
   * 2017 ICMR [Paper URL](https://arxiv.org/abs/1701.04082)
 
+- **Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring**
+  * Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, Joseph Keshet
+  * 2018 USENIX [Paper URL](https://arxiv.org/abs/1802.04633)
+
 - **DeepSigns: An End-to-End Watermarking Framework for Ownership Protection of Deep Neural Networks**
   * PictureBita Darvish Rouhani, PictureHuili Chen, PictureFarinaz Koushanfar
   * 2019 ASPLOS [Paper URL](https://dl.acm.org/doi/10.1145/3297858.3304051)
