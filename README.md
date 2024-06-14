@@ -225,7 +225,11 @@ This repository contains a curated list of awesome watermarking papers.
 
 - **A Watermark for Large Language Models**
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein
-  * 2024 ICML [Paper URL](https://arxiv.org/abs/2301.10226)
+  * 2023 ICML [Paper URL](https://arxiv.org/abs/2301.10226)
+
+- **Unbiased Watermark for Large Language Models**
+  * Zhengmian Hu, Lichang Chen, Xidong Wu, Yihan Wu, Hongyang Zhang, Heng Huang
+  * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.10669)
 
 ## Prompt Watermarking
 
