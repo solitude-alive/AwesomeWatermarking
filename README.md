@@ -231,6 +231,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Zhengmian Hu, Lichang Chen, Xidong Wu, Yihan Wu, Hongyang Zhang, Heng Huang
   * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.10669)
 
+- **A Semantic Invariant Robust Watermark for Large Language Models**
+  * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
+  * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.06356)
+
 ## Prompt Watermarking
 
 - **Are You Copying My Prompt? Protecting the Copyright of Vision Prompt for VPaaS via Watermark**
