@@ -10,6 +10,7 @@ This repository contains a curated list of awesome watermarking papers.
 - [Model Watermarking](#model-watermarking)
 - [Prompt Watermarking](#prompt-watermarking)
 - [Model Fingerprint](#model-fingerprint)
+- [Others](#others)
 
 
 ## Survey
@@ -275,3 +276,10 @@ This repository contains a curated list of awesome watermarking papers.
 - **Hiding Text in Large Language Models: Introducing Unconditional Token Forcing Confusion**
   * Jakub Hoscilowicz, Pawel Popiolek, Jan Rudkowski, Jedrzej Bieniasz, Artur Janicki
   * 2024 [Paper URL](https://arxiv.org/abs/2406.02481)
+
+
+# Others
+
+- **Neural Lineage**
+  * Runpeng Yu, Xinchao Wang
+  * 2024 CVPR [Paper URL](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Neural_Lineage_CVPR_2024_paper.pdf)
