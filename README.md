@@ -240,6 +240,14 @@ This repository contains a curated list of awesome watermarking papers.
   * Yihan Wu, Zhengmian Hu, Junfeng Guo, Hongyang Zhang, Heng Huang
   * 2024 ICML [Paper URL](https://openreview.net/forum?id=c8qWiNiqRY&referrer=%5Bthe%20profile%20of%20Heng%20Huang%5D(%2Fprofile%3Fid%3D~Heng_Huang1))
 
+- **Token-Specific Watermarking with Enhanced Detectability and Semantic Coherence for Large Language Models**
+  * Mingjia Huo, Sai Ashish Somayajula, Youwei Liang, Ruisi Zhang, Farinaz Koushanfar, Pengtao Xie
+  * 2024 ICML [Paper URL](https://arxiv.org/abs/2402.18059)
+
+- **Adaptive Text Watermark for Large Language Models**
+  * Yepeng Liu, Yuheng Bu
+  * 2024 ICML [Paper URL](https://arxiv.org/abs/2401.13927)
+
 
 ## Prompt Watermarking
 
