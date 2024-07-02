@@ -248,6 +248,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Yepeng Liu, Yuheng Bu
   * 2024 ICML [Paper URL](https://arxiv.org/abs/2401.13927)
 
+- **How to Trace Latent Generative Model Generated Images without Artificial Watermark?**
+  * Zhenting Wang, Vikash Sehwag, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma
+  * 2024 ICML [Paper URL](https://arxiv.org/abs/2405.13360)
+
 
 ## Prompt Watermarking
 
