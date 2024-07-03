@@ -228,6 +228,10 @@ This repository contains a curated list of awesome watermarking papers.
   * John Kirchenbauer, Jonas Geiping, Yuxin Wen, Jonathan Katz, Ian Miers, Tom Goldstein
   * 2023 ICML [Paper URL](https://arxiv.org/abs/2301.10226)
 
+- **Where Did I Come From? Origin Attribution of AI-Generated Images**
+  * Zhenting Wang, Chen Chen, Yi Zeng, Lingjuan Lyu, Shiqing Ma
+  * 2024 NeurIPS [Paper URL](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ebb4c188fafe7da089b41a9f615ad84d-Abstract-Conference.html)
+
 - **Unbiased Watermark for Large Language Models**
   * Zhengmian Hu, Lichang Chen, Xidong Wu, Yihan Wu, Hongyang Zhang, Heng Huang
   * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.10669)
