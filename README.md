@@ -240,6 +240,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
   * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.06356)
 
+- **An Unforgeable Publicly Verifiable Watermark for Large Language Models**
+  * Aiwei Liu, Leyi Pan, Xuming Hu, Shu'ang Li, Lijie Wen, Irwin King, Philip S. Yu
+  * 2024 ICLR [Paper URL](https://arxiv.org/abs/2307.16230)
+
 - **A Resilient and Accessible Distribution-Preserving Watermark for Large Language Models**
   * Yihan Wu, Zhengmian Hu, Junfeng Guo, Hongyang Zhang, Heng Huang
   * 2024 ICML [Paper URL](https://openreview.net/forum?id=c8qWiNiqRY&referrer=%5Bthe%20profile%20of%20Heng%20Huang%5D(%2Fprofile%3Fid%3D~Heng_Huang1))
