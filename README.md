@@ -122,6 +122,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
   * 2024 [Paper URL](https://arxiv.org/abs/2403.13000)
 
+- **Waterfall: Framework for Robust and Scalable Text Watermarking**
+  * Gregory Kang Ruey Lau, Xinyuan Niu, Hieu Dao, Jiangwei Chen, Chuan-Sheng Foo, Bryan Kian Hsiang Low
+  * 2024 [Paper URL](https://arxiv.org/abs/2407.04411)
+
 
 ## Image Watermarking
 
