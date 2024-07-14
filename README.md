@@ -220,6 +220,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Ning Yu, Vladislav Skripniuk, Sahar Abdelnabi, Mario Fritz
   * 2021 ICCV [Paper URL](https://arxiv.org/abs/2007.08457)
 
+- **Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization**
+  * Lixu Wang, Shichao Xu, Ruiqi Xu, Xiao Wang, Qi Zhu
+  * 2022 ICLR [Paper URL](https://arxiv.org/abs/2106.06916)
+
 - **Safeguarding Transformer Models Against Model Stealing in Edge Deployment**
   * Qinfeng Li, Zhiqiang Shen, Zhenghan Qin, Yangfan Xie, Xuhong Zhang, Tianyu Du, Jianwei Yin
   * 2024 [Paper URL](https://arxiv.org/abs/2404.11121)
