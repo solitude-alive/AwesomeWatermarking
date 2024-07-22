@@ -272,6 +272,9 @@ This repository contains a curated list of awesome watermarking papers.
   * Zhenting Wang, Vikash Sehwag, Chen Chen, Lingjuan Lyu, Dimitris N. Metaxas, Shiqing Ma
   * 2024 ICML [Paper URL](https://arxiv.org/abs/2405.13360)
 
+- **Safe-SD: Safe and Traceable Stable Diffusion with Text Prompt Trigger for Invisible Generative Watermarking**
+  * Zhiyuan Ma, Guoli Jia, Biqing Qi, Bowen Zhou
+  * 2024 arXiv [Paper URL](https://arxiv.org/abs/2407.13188)
 
 ## Prompt Watermarking
 
