@@ -126,6 +126,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Gregory Kang Ruey Lau, Xinyuan Niu, Hieu Dao, Jiangwei Chen, Chuan-Sheng Foo, Bryan Kian Hsiang Low
   * 2024 [Paper URL](https://arxiv.org/abs/2407.04411)
 
+- **Less is More: Sparse Watermarking in LLMs with Enhanced Text Quality**
+  * Duy C. Hoang, Hung T. Q. Le, Rui Chu, Ping Li, Weijie Zhao, Yingjie Lao, Khoa D. Doan
+  * 2024 [Paper URL](https://arxiv.org/abs/2407.13803)
+
 
 ## Image Watermarking
 
