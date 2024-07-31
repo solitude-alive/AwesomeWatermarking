@@ -321,6 +321,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Jakub Hoscilowicz, Pawel Popiolek, Jan Rudkowski, Jedrzej Bieniasz, Artur Janicki
   * 2024 [Paper URL](https://arxiv.org/abs/2406.02481)
 
+- **LLMmap: Fingerprinting For Large Language Models**
+  * Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese
+  * 2024 [Paper URL](https://arxiv.org/abs/2407.15847)
+
 
 # Others
 
