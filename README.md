@@ -280,6 +280,11 @@ This repository contains a curated list of awesome watermarking papers.
   * Zhiyuan Ma, Guoli Jia, Biqing Qi, Bowen Zhou
   * 2024 arXiv [Paper URL](https://arxiv.org/abs/2407.13188)
 
+- **WatME: Towards Lossless Watermarking Through Lexical Redundancy**
+  * Liang Chen, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-fai Wong
+  * 2024 ACL [Paper URL](https://arxiv.org/abs/2311.09832)
+
+
 ## Prompt Watermarking
 
 - **Are You Copying My Prompt? Protecting the Copyright of Vision Prompt for VPaaS via Watermark**
