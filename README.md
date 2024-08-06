@@ -284,6 +284,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Liang Chen, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-fai Wong
   * 2024 ACL [Paper URL](https://arxiv.org/abs/2311.09832)
 
+- **A Watermark for Low-entropy and Unbiased Generation in Large Language Models**
+  * Minjia Mao, Dongjun Wei, Zeyu Chen, Xiao Fang, Michael Chau
+  * 2024 [Paper URL](https://arxiv.org/abs/2405.14604)
+
 
 ## Prompt Watermarking
 
