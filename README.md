@@ -288,6 +288,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Minjia Mao, Dongjun Wei, Zeyu Chen, Xiao Fang, Michael Chau
   * 2024 [Paper URL](https://arxiv.org/abs/2405.14604)
 
+- **PostMark: A Robust Blackbox Watermark for Large Language Models**
+  * Yapei Chang, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer
+  * 2024 [Paper URL](https://arxiv.org/abs/2406.14517)
+
 
 ## Prompt Watermarking
 
