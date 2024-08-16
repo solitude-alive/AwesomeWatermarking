@@ -50,6 +50,10 @@ This repository contains a curated list of awesome watermarking papers.
   * Mingjie Li, Hanzhou Wu, Xinpeng Zhang
   * 2021 [Paper URL](https://www.sciencedirect.com/science/article/abs/pii/S0925231223008238)
 
+- **Semantic-Preserving Linguistic Steganography by Pivot Translation and Semantic-Aware Bins Coding**
+  * Tianyu Yang, Hanzhou Wu, Biao Yi, Guorui Feng, Xinpeng Zhang
+  * 2022 [Paper URL](https://arxiv.org/abs/2203.03795)
+
 - **Watermarking Pre-trained Language Models with Backdooring**
   * Chenxi Gu, Chengsong Huang, Xiaoqing Zheng, Kai-Wei Chang, Cho-Jui Hsieh
   * 2022 [Paper URL](https://arxiv.org/abs/2210.07543)
