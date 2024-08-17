@@ -1,5 +1,5 @@
 # Awesome Watermarking
-This repository contains a curated list of awesome watermarking papers.
+This repository contains a curated list of awesome watermarking and steganography papers.
 
 
 ## Table of Contents
