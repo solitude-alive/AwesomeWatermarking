@@ -1,5 +1,5 @@
 # Awesome Watermarking
-This repository contains a curated list of awesome watermarking and steganography papers.
+This repository contains a curated list of awesome watermarking, steganography and other related works in the field of intelligence property protection.
 
 
 ## Table of Contents
