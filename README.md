@@ -296,6 +296,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Yapei Chang, Kalpesh Krishna, Amir Houmansadr, John Wieting, Mohit Iyyer
   * 2024 [Paper URL](https://arxiv.org/abs/2406.14517)
 
+- **MarkLLM: An Open-Source Toolkit for LLM Watermarking**
+  * Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
+  * 2024 [Paper URL](https://arxiv.org/abs/2405.10051)
+
 
 ## Prompt Watermarking
 
