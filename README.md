@@ -232,6 +232,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Lixu Wang, Shichao Xu, Ruiqi Xu, Xiao Wang, Qi Zhu
   * 2022 ICLR [Paper URL](https://arxiv.org/abs/2106.06916)
 
+- **Undetectable Watermarks for Language Models**
+  * Miranda Christ, Sam Gunn, Or Zamir
+  * 2023 [Paper URL](https://arxiv.org/abs/2306.09194)
+
 - **Multi-Bit Distortion-Free Watermarking for Large Language Models**
   * Massieh Kordi Boroujeny, Ya Jiang, Kai Zeng, Brian Mark
   * 2024 [Paper URL](https://arxiv.org/abs/2402.16578)
