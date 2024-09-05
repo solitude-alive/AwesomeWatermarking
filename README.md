@@ -304,6 +304,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
   * 2024 [Paper URL](https://arxiv.org/abs/2405.10051)
 
+- **Multi-bit Watermark for Large Language Models via Position Allocation**
+  * KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak
+  * 2024 ACL [Paper URL](https://arxiv.org/abs/2308.00221)
+
 
 ## Prompt Watermarking
 
