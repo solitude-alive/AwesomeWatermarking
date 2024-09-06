@@ -292,6 +292,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Liang Chen, Yatao Bian, Yang Deng, Deng Cai, Shuaiyi Li, Peilin Zhao, Kam-fai Wong
   * 2024 ACL [Paper URL](https://arxiv.org/abs/2311.09832)
 
+- **Multi-bit Watermark for Large Language Models via Position Allocation**
+  * KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak
+  * 2024 ACL [Paper URL](https://arxiv.org/abs/2308.00221)
+
 - **A Watermark for Low-entropy and Unbiased Generation in Large Language Models**
   * Minjia Mao, Dongjun Wei, Zeyu Chen, Xiao Fang, Michael Chau
   * 2024 [Paper URL](https://arxiv.org/abs/2405.14604)
@@ -303,10 +307,6 @@ This repository contains a curated list of awesome watermarking, steganography a
 - **MarkLLM: An Open-Source Toolkit for LLM Watermarking**
   * Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
   * 2024 [Paper URL](https://arxiv.org/abs/2405.10051)
-
-- **Multi-bit Watermark for Large Language Models via Position Allocation**
-  * KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak
-  * 2024 ACL [Paper URL](https://arxiv.org/abs/2308.00221)
 
 
 ## Prompt Watermarking
