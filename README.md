@@ -236,6 +236,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Miranda Christ, Sam Gunn, Or Zamir
   * 2023 [Paper URL](https://arxiv.org/abs/2306.09194)
 
+- **Three Bricks to Consolidate Watermarks for Large Language Models**
+  * Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon
+  * 2023 WIFS [Paper URL](https://arxiv.org/abs/2308.00113)
+
 - **Multi-Bit Distortion-Free Watermarking for Large Language Models**
   * Massieh Kordi Boroujeny, Ya Jiang, Kai Zeng, Brian Mark
   * 2024 [Paper URL](https://arxiv.org/abs/2402.16578)
