@@ -240,6 +240,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon
   * 2023 WIFS [Paper URL](https://arxiv.org/abs/2308.00113)
 
+- **Towards Codable Watermarking for Injecting Multi-bits Information to LLMs**
+  * Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun
+  * 2024 ICLR [Paper URL](https://arxiv.org/abs/2307.15992)
+
 - **Multi-Bit Distortion-Free Watermarking for Large Language Models**
   * Massieh Kordi Boroujeny, Ya Jiang, Kai Zeng, Brian Mark
   * 2024 [Paper URL](https://arxiv.org/abs/2402.16578)
