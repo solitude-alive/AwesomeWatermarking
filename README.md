@@ -323,6 +323,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Huali Ren, Anli Yan, Chong-zhi Gao, Hongyang Yan, Zhenxin Zhang, Jin Li
   * 2024 [Paper URL](https://arxiv.org/abs/2405.15161)
 
+- **Why Are My Prompts Leaked? Unraveling Prompt Extraction Threats in Customized Large Language Models**
+  * Zi Liang, Haibo Hu, Qingqing Ye, Yaxin Xiao, Haoyang Li
+  * 2024 [Paper URL](https://arxiv.org/abs/2408.02416)
+
 
 ## Model Fingerprint
 
