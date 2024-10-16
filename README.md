@@ -316,6 +316,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian Lu, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
   * 2024 [Paper URL](https://arxiv.org/abs/2405.10051)
 
+- **A Watermark for Black-Box Language Models**
+  * Dara Bahri, John Wieting, Dana Alon, Donald Metzler
+  * 2024 [Paper URL](https://arxiv.org/abs/2410.02099)
+
 
 ## Prompt Watermarking
 
@@ -365,6 +369,10 @@ This repository contains a curated list of awesome watermarking, steganography a
 - **LLMmap: Fingerprinting For Large Language Models**
   * Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese
   * 2024 [Paper URL](https://arxiv.org/abs/2407.15847)
+
+- **FP-VEC: Fingerprinting Large Language Models via Efficient Vector Addition**
+  * Zhenhua Xu, Wenpeng Xing, Zhebo Wang, Chang Hu, Chen Jie, Meng Han
+  * 2024 [Paper URL](https://arxiv.org/abs/2409.08846)
 
 
 # Others
