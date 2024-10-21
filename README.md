@@ -27,6 +27,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Xin Zhong, Arjon Das, Fahad Alrasheedi, Abdullah Tanvir
   * 2023 [Paper URL](https://arxiv.org/abs/2308.04603)
 
+- **A Survey on Detection of LLMs-Generated Content**
+  * Xianjun Yang, Liangming Pan, Xuandong Zhao, Haifeng Chen, Linda Petzold, William Yang Wang, Wei Cheng
+  * 2023 [Paper URL](https://arxiv.org/abs/2310.15654)
+
 - **A Survey of Text Watermarking in the Era of Large Language Models**
   * Aiwei Liu, Leyi Pan, Yijian Lu, Jingjing Li, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu
   * 2024 [Paper URL](https://arxiv.org/abs/2312.07913)
