@@ -308,6 +308,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak
   * 2024 ACL [Paper URL](https://arxiv.org/abs/2308.00221)
 
+- **Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs**
+  * Xuandong Zhao, Lei Li, Yu-Xiang Wang
+  * 2024 [Paper URL](https://arxiv.org/abs/2402.05864)
+
 - **A Watermark for Low-entropy and Unbiased Generation in Large Language Models**
   * Minjia Mao, Dongjun Wei, Zeyu Chen, Xiao Fang, Michael Chau
   * 2024 [Paper URL](https://arxiv.org/abs/2405.14604)
@@ -323,6 +327,10 @@ This repository contains a curated list of awesome watermarking, steganography a
 - **A Watermark for Black-Box Language Models**
   * Dara Bahri, John Wieting, Dana Alon, Donald Metzler
   * 2024 [Paper URL](https://arxiv.org/abs/2410.02099)
+
+- **Scalable Watermarking For Identifying Large Language Model Outputs**
+  * Sumanth Dathathri, Abigail See, Sumedh Ghaisas, Po-Sen Huang, Rob McAdam, Johannes Welbl, Vandana Bachani, Alex Kaskasoli, Robert Stanforth, Tatiana Matejovicova, Jamie Hayes, Nidhi Vyas, Majd Al Merey, Jonah Brown-Cohen, Rudy Bunel, Borja Balle, Taylan Cemgil, Zahra Ahmed, Kitty Stacpoole, Ilia Shumailov, Ciprian Baetu, Sven Gowal, Demis Hassabis, Pushmeet Kohli
+  * 2024 Nature [Paper URL](https://www.nature.com/articles/s41586-024-08025-4)
 
 
 ## Prompt Watermarking
