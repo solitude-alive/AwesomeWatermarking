@@ -332,6 +332,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Sumanth Dathathri, Abigail See, Sumedh Ghaisas, Po-Sen Huang, Rob McAdam, Johannes Welbl, Vandana Bachani, Alex Kaskasoli, Robert Stanforth, Tatiana Matejovicova, Jamie Hayes, Nidhi Vyas, Majd Al Merey, Jonah Brown-Cohen, Rudy Bunel, Borja Balle, Taylan Cemgil, Zahra Ahmed, Kitty Stacpoole, Ilia Shumailov, Ciprian Baetu, Sven Gowal, Demis Hassabis, Pushmeet Kohli
   * 2024 Nature [Paper URL](https://www.nature.com/articles/s41586-024-08025-4)
 
+- **Context-aware Watermark with Semantic Balanced Green-red Lists for Large Language Models**
+  * Yuxuan Guo, Zhiliang Tian, Yiping Song, Tianlun Liu, Liang Ding, Dongsheng Li
+  * 2024 [Paper URL](https://aclanthology.org/2024.emnlp-main.1260/)
+
 
 ## Prompt Watermarking
 
