@@ -233,6 +233,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Bishwa Karki, Chun-Hua Tsai, Pei-Chi Huang, Xin Zhong
   * 2024 [Paper URL](https://arxiv.org/abs/2404.13134)
 
+- **Robust Watermarking Using Generative Priors Against Image Editing: From Benchmarking to Advances**
+  * Shilin Lu, Zihan Zhou, Jiayou Lu, Yuanzhi Zhu, Adams Wai-Kin Kong
+  * 2025 ICLR [Paper URL](https://arxiv.org/abs/2410.18775)
+
 
 ## Model Watermarking
 
