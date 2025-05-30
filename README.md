@@ -102,6 +102,30 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Bram Wouters
   * 2023 arXiv [Paper URL](https://arxiv.org/abs/2312.17295)
 
+- **Provable robust watermarking for ai-generated text**
+  * Xuandong Zhao, Prabhanjan Ananth, Lei Li, Yu-Xiang Wang
+  * 2024 ICLR [Paper URL](https://arxiv.org/abs/2306.17439)
+
+- **Robust distortion-free watermarks for language models**
+  * Rohith Kuditipudi, John Thickstun, Tatsunori Hashimoto, Percy Liang
+  * 2024 TMLR [Paper URL](https://arxiv.org/abs/2307.15593)
+
+- **Towards codable text watermarking for large language models**
+  * Lean Wang, Wenkai Yang, Deli Chen, Hao Zhou, Yankai Lin, Fandong Meng, Jie Zhou, Xu Sun
+  * 2024 ICLR [Paper URL](https://arxiv.org/abs/2307.15992)
+
+- **Three bricks to consolidate watermarks for large language models**
+  * Pierre Fernandez, Antoine Chaffin, Karim Tit, Vivien Chappelier, Teddy Furon
+  * 2023 WIFS [Paper URL](https://arxiv.org/abs/2308.00113)
+
+- **Advancing beyond identification: Multi-bit watermark for language models**
+  * KiYoon Yoo, Wonhyuk Ahn, Nojun Kwak
+  * 2024 NAACL [Paper URL](https://arxiv.org/abs/2308.00221)
+
+- **Semstamp: A semantic watermark with paraphrastic robustness for text generation**
+  * Abe Bohan Hou, Jingyu Zhang, Tianxing He, Yichen Wang, Yung-Sung Chuang, Hongwei Wang, Lingfeng Shen, Benjamin Van Durme, Daniel Khashabi, Yulia Tsvetkov
+  * 2024 NAACL [Paper URL](https://arxiv.org/abs/2310.03991)
+
 - **A Semantic Invariant Robust Watermark for Large Language Models**
   * Aiwei Liu, Leyi Pan, Xuming Hu, Shiao Meng, Lijie Wen
   * 2024 ICLR [Paper URL](https://arxiv.org/abs/2310.06356)
@@ -334,7 +358,7 @@ This repository contains a curated list of awesome watermarking, steganography a
 
 - **Context-aware Watermark with Semantic Balanced Green-red Lists for Large Language Models**
   * Yuxuan Guo, Zhiliang Tian, Yiping Song, Tianlun Liu, Liang Ding, Dongsheng Li
-  * 2024 [Paper URL](https://aclanthology.org/2024.emnlp-main.1260/)
+  * 2024 EMNLP [Paper URL](https://aclanthology.org/2024.emnlp-main.1260/)
 
 
 ## Prompt Watermarking
@@ -381,6 +405,10 @@ This repository contains a curated list of awesome watermarking, steganography a
 - **Hiding Text in Large Language Models: Introducing Unconditional Token Forcing Confusion**
   * Jakub Hoscilowicz, Pawel Popiolek, Jan Rudkowski, Jedrzej Bieniasz, Artur Janicki
   * 2024 [Paper URL](https://arxiv.org/abs/2406.02481)
+
+- **A Fingerprint for Large Language Models**
+  * Zhiguang Yang, Hanzhou Wu
+  * 2024 [Paper URL](https://arxiv.org/abs/2407.01235)
 
 - **LLMmap: Fingerprinting For Large Language Models**
   * Dario Pasquini, Evgenios M. Kornaropoulos, Giuseppe Ateniese
