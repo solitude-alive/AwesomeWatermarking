@@ -162,6 +162,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Duy C. Hoang, Hung T. Q. Le, Rui Chu, Ping Li, Weijie Zhao, Yingjie Lao, Khoa D. Doan
   * 2024 [Paper URL](https://arxiv.org/abs/2407.13803)
 
+- **Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation**
+  * Asim Mohamed, Martin Gubri
+  * 2025 [Paper URL](https://arxiv.org/abs/2510.18019)
+
 
 ## Image Watermarking
 
