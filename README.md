@@ -426,6 +426,10 @@ This repository contains a curated list of awesome watermarking, steganography a
   * Zhenhua Xu, Wenpeng Xing, Zhebo Wang, Chang Hu, Chen Jie, Meng Han
   * 2024 [Paper URL](https://arxiv.org/abs/2409.08846)
 
+- **TRAP: Targeted Random Adversarial Prompt Honeypot for Black-Box Identification**
+  * Martin Gubri, Dennis Ulmer, Hwaran Lee, Sangdoo Yun, Seong Joon Oh
+  * 2024 ACL (findings) [Paper URL](https://aclanthology.org/2024.findings-acl.683/)
+
 
 # Others
 
